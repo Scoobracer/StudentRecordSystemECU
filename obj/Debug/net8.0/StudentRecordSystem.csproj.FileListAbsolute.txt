@@ -1,0 +1,14 @@
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\bin\Debug\net8.0\StudentRecordSystem.exe
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\bin\Debug\net8.0\StudentRecordSystem.deps.json
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\bin\Debug\net8.0\StudentRecordSystem.runtimeconfig.json
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\bin\Debug\net8.0\StudentRecordSystem.dll
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\bin\Debug\net8.0\StudentRecordSystem.pdb
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.dll
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\refint\StudentRecordSystem.dll
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.pdb
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\StudentRecordSystem.genruntimeconfig.cache
+C:\Users\desha\OneDrive\Documents\StudentRecordSystem\StudentRecordSystem\obj\Debug\net8.0\ref\StudentRecordSystem.dll
