@@ -6,7 +6,7 @@ namespace StudentRecordSystem;
 
 internal class Program
 {
-    private static readonly IStudentRepository Repo = new JsonStudentRepository("students.json");
+    private static readonly IStudentRepository Repo = new SqlStudentRepository("Data Source=students.db");
 
     // Demo accounts. "admin" can manage every record; "s12345" can
     // only view the student record it is linked to.

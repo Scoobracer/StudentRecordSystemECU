@@ -13,7 +13,7 @@ public class Unit
     public double Mark { get; set; }          // 0-100, 0 = not yet graded
     public string Semester { get; set; } = string.Empty;
 
-    /// <summary>Simple derived letter grade, used for display only.</summary>
+    /// Simple derived letter grade which used for display only
     public string Grade => Mark switch
     {
         >= 80 => "HD",
